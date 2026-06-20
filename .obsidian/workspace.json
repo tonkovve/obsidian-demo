@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "bdb5d598f1bc6143",
+    "type": "split",
+    "children": [
+      {
+        "id": "1471ef7b2ccd1f08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "392434dd91c59b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PARA"
+            }
+          },
+          {
+            "id": "062387d2104813b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PARA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PARA"
+            }
+          },
+          {
+            "id": "7308c98857541ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Resources/MusicMaking/MusicMaking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MusicMaking"
+            }
+          },
+          {
+            "id": "4ee1a18e9c23d829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Emotion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emotion"
+            }
+          },
+          {
+            "id": "f5054165ba9e9359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/FocusOS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FocusOS"
+            }
+          },
+          {
+            "id": "c52ace4a97c88c12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/About Inbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About Inbox"
+            }
+          },
+          {
+            "id": "adc8b7dace60056d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/Git Server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Server"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "866c029791b778d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf04820d0aba888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20e5dafe2c2131c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f444b5f2e184010",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e72622d73c5c9333",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.50260543823242
+  },
+  "right": {
+    "id": "5ec6f87002b37eef",
+    "type": "split",
+    "children": [
+      {
+        "id": "e061e189f96141a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c9f79408cd0296",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0 Inbox/Git Server.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Git Server"
+            }
+          },
+          {
+            "id": "ed3bff3eb520b16b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0 Inbox/Git Server.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Git Server"
+            }
+          },
+          {
+            "id": "b0c2fe8b25f48747",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "86073e3d1e1ffce4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6ffc02a62d933624",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0 Inbox/Git Server.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Git Server"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "adc8b7dace60056d",
+  "lastOpenFiles": [
+    "0 Inbox/About Inbox.md",
+    "0 Inbox/Git Server.md",
+    "testnvimfile.md",
+    "0 Inbox/Setting up Hotkeys for the Inbox.md",
+    "0 Inbox/FocusOS.md",
+    "PARA.md",
+    "0 Inbox/Emotion.md",
+    "0 Inbox/Test inbox note.md",
+    "3 Resources/MusicMaking/MusicMaking.md",
+    "3 Resources/MusicMaking",
+    "1 Projects/Flat/Idea about the flat.md",
+    "1 Projects/Flat/Acoustics.md",
+    "1 Projects/Flat/designing and planning the roomio.md",
+    "1 Projects/Flat",
+    "0 Inbox/sdfsdf.md",
+    "4 Archive",
+    "3 Resources",
+    "2 Areas",
+    "1 Projects",
+    "0 Inbox",
+    "Mathew.md",
+    "Mathew Encina.md",
+    "Gawx Art.md",
+    "().md",
+    "Welcome.md"
+  ]
+}

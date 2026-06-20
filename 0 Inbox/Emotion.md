@@ -1,0 +1,1 @@
+Idea: go through your current collection and pick tracks that resonates with this emotion. 

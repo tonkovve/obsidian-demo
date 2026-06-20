@@ -1,0 +1,41 @@
+https://www.skool.com/kubecraft/classroom/ce825285?md=95a075b6212b49119a85b900b9d9af6b
+
+
+# Learning how to Learn
+- Module 1 - Introduction
+	- Everything starts with curiosity
+	- Intentionality & Focus
+	- Study Techniques
+	- Goal Oriented Learning
+	- Using Search Engines
+	- Take Notes on Everything You Do
+	- Focus 
+- Module 2 - Recommended Reads - Tech / Work Books
+	- Productivity
+	- Wellbeing
+- Obisidian
+	- Module 1 - Obsidian - Introduction
+	- Why Obsidian?
+	- Creating your first vault
+	- Vault Structure
+	- [[PARA]]
+	- Creating the Directory Structure 
+	- The Inbox
+	- Processing The Inbox
+	- [[ Setting up Hotkeys for the Inbox ]]
+	- Exploring Neovim
+	- Backing Up your Vault with Git Automation 
+	- Note Templates part 1
+	- Note Templates part 2
+	- Module 2 - Obsidian Zettelkasten
+	- Outro
+	- Obsidian Zettelkasten Introduction
+	- Zettelkasten & Productivity 
+	- How to Take Notes
+	- The Zettelkasten Lifestyle
+	- Implementation in Obsidian
+	- Full Demo of Zettelkasten Note-taking
+- Advanced Obsidian - Goal Settings
+	- Practical application in Obsidian
+	- Setting & Achieving Goals
+	- Congratulations!
