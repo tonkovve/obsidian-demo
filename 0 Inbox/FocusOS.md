@@ -35,6 +35,7 @@ https://www.skool.com/kubecraft/classroom/ce825285?md=95a075b6212b49119a85b900b9
 	- The Zettelkasten Lifestyle
 	- Implementation in Obsidian
 	- Full Demo of Zettelkasten Note-taking
+
 - Advanced Obsidian - Goal Settings
 	- Practical application in Obsidian
 	- Setting & Achieving Goals
