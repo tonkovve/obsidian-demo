@@ -1,0 +1,2 @@
+
+Idea: Building application for hr - implement the material that the hr person studied before. The application will provide also an assistant - especially with the introduction & onboarding process - how to use it - explaining the processes in the application related to the tasks of the role. 
