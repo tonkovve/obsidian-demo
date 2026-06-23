@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/AppIdea.md",
+                "file": "0 Inbox/Git Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AppIdea"
+              "title": "Git Test"
             }
           },
           {
@@ -300,20 +300,21 @@
   },
   "active": "3d9a3ae616377de1",
   "lastOpenFiles": [
-    "0 Inbox/Goal.md",
-    "0 Inbox/AppIdea.md",
-    "templates/Zettel template.md",
-    "templates",
-    "PARA.md",
-    "0 Inbox/Portfolio Prototype.md",
-    "0 Inbox/FocusOS.md",
+    "0 Inbox/Git Server.md",
     "0 Inbox/Emotion.md",
+    "0 Inbox/FocusOS.md",
+    "testnvimfile.md",
+    "Welcome.md",
+    "PARA.md",
+    "templates/Zettel template.md",
+    "0 Inbox/Portfolio Prototype.md",
+    "0 Inbox/Setting up Hotkeys for the Inbox.md",
+    "0 Inbox/AppIdea.md",
+    "0 Inbox/Goal.md",
+    "templates",
     "3 Resources/MusicMaking/MusicMaking.md",
     "0 Inbox/About Inbox.md",
     "0 Inbox/Git Test.md",
-    "0 Inbox/Git Server.md",
-    "testnvimfile.md",
-    "0 Inbox/Setting up Hotkeys for the Inbox.md",
     "0 Inbox/Test inbox note.md",
     "3 Resources/MusicMaking",
     "1 Projects/Flat/Idea about the flat.md",
@@ -329,7 +330,6 @@
     "Mathew.md",
     "Mathew Encina.md",
     "Gawx Art.md",
-    "().md",
-    "Welcome.md"
+    "().md"
   ]
 }
